@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherForecast</string>
+    <string name="change_city">Change City</string>
+
+    <string name="title_section1">Moscow</string>
+    <string name="title_section2">Current Weather Details</string>
+    <string name="title_section3">Weather Forecast</string>
+
+    <string name="open_weather_reports_app_id">110513</string>
+
+    <string name="weather_clear_sky">&#xf041;</string>
+
+
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+
+    <string name="place_not_found">Sorry,no weather data found.</string>
+
+
+
+
+</resources>
